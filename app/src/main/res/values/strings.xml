@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">IndoreConnect</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="about_us"> "<b>Indore Connect </b> helps you to finds local service, or any information, or other details of Indore.\n\nOur Goal is to provide complete or very small information to you, or we are more focusing on daily needs services, which information are not getting easily online, for that you have to search in your local area, we planning to connect them to you.\n\nOur vision to provide complete details of indore as soon as possible, that will not take much time, it’s our priority to provide our service to all of you.\n\nHope we can fulfill all your requirements.\n\nThanks,\n<b>IC Team.</b>\n"</string>
+    <!--
+    <string name="about_us">“IC – indore connect” is a product of “SAFAR Innovation” which situated in INDORE which properly known as Food Capital of INDIA.\n\n
+As we are indorian, so we are to glad to introduce our indore to you as our APP which we called IC – indore connect “connecting you to indore”.\n\n
+Indore Connect helps you to finds local service, or any information, or other details of Indore.\n\n
+Our Goal is to provide complete or very small information to you, or we are more focusing on daily needs services, which information are not getting easily online, for that you have to search in your local area, we planning to connect them to you.\n\n
+Enjoy our service, hope it will much helpful to you in any mode.\n\n
+Our vision to provide complete details of indore as soon as possible, that will not take much time, it’s our priority to provide our service to all of you.\n\n
+Hope we can fulfill all your requirements.\n\n
+Thanks,\n
+IC Team.\n</string>-->
+
+    <string name="open_sechdule">Monday     10AM - 09PM\nTuesday     10AM - 09PM\nWednesday   10AM - 09PM\nThursday    10AM - 09PM\nFriday      10AM - 09PM\nSaturday    10AM - 09PM\nSunday      10AM - 09PM\n</string>
+
+    <string name="feedback_msg1">We need to update everyday, so we want changes or need correction in our application. </string>
+    <string name="feedback_msg2">So, suggest us what you think, or what update you need in our application, to make APP more intresting or friendly. Thanks</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
